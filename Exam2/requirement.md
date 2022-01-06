@@ -12,7 +12,7 @@ exam1
 ```
 
 ## Resources:
-- [Figma](https://www.figma.com/file/r2hDwjPoSxAHGNirKxbi7i/Example3?node-id=513%3A21)
+- https://www.figma.com/file/O5VzPBRhQyQmUS0RMf8PKJ/Figma-startup-landing-page-dark-(Community)?node-id=0%3A3517
 
 ## Tiêu chí đánh giá:
 - File chạy được

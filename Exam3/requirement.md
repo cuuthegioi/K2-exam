@@ -12,7 +12,7 @@ exam1
 ```
 
 ## Resources:
-- [Figma](https://www.figma.com/file/fuFLPfRglj9mB1RgFV7tUe/Example1?node-id=0%3A88)
+- https://www.figma.com/file/Xac0DpUUqRNrDrZalQXwBR/Digital-Agency-Website---Freebie-(Community)?node-id=0%3A1
 
 ## Tiêu chí đánh giá:
 - File chạy được

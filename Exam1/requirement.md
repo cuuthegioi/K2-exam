@@ -12,7 +12,7 @@ exam1
 ```
 
 ## Resources:
-- [Figma](https://www.figma.com/file/D52Y6KWAglK61p3DJ14TdE/Example2?node-id=0%3A1)
+- https://www.figma.com/file/GmKmgTVv7omu5sdfhBykMZ/Figmaland--Business-Landing-page-(Community)?node-id=65%3A0
 
 ## Tiêu chí đánh giá:
 - File chạy được
